@@ -322,7 +322,7 @@ git cherry-pick <commit-hash-from-branchA>
 
    ```bash
    # 在 login 分支
-   echo "登录功能" > login.txt
+   echo "登录功能" > login.txtq
    git add . && git commit -m "完成登录功能"
 
    # 切换到 payment 分支
